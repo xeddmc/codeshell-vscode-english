@@ -81,47 +81,47 @@
     "commands": [
       {
         "command": "codeshell.auto_completion_enable",
-        "title": "启用 自动触发补全",
+        "title": "Enable autocomplete",
         "category": "codeshell"
       },
       {
         "command": "codeshell.auto_completion_disable",
-        "title": "停用 自动触发补全",
+        "title": "Disable autocomplete",
         "category": "codeshell"
       },
       {
         "command": "codeshell.explain_this_code",
-        "title": "解释 这段代码",
+        "title": "Explain this code",
         "category": "codeshell"
       },
       {
         "command": "codeshell.improve_this_code",
-        "title": "优化 这段代码",
+        "title": "Optimize  this code",
         "category": "codeshell"
       },
       {
         "command": "codeshell.clean_this_code",
-        "title": "清理 这段代码",
+        "title": "Clean this code",
         "category": "codeshell"
       },
       {
         "command": "codeshell.generate_comment",
-        "title": "生成 注释",
+        "title": "Generate comment",
         "category": "codeshell"
       },
       {
         "command": "codeshell.generate_unit_test",
-        "title": "生成 单元测试",
+        "title": "Generate unit test",
         "category": "codeshell"
       },
       {
         "command": "codeshell.check_performance",
-        "title": "检查 性能问题",
+        "title": "Check performance issues",
         "category": "codeshell"
       },
       {
         "command": "codeshell.check_security",
-        "title": "检查 安全性问题",
+        "title": "Check security issues",
         "category": "codeshell"
       }
     ],
