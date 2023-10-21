@@ -46,7 +46,7 @@ export async function postCompletion(fimPrefixCode: string, fimSuffixCode: strin
 
 const axiosInstance: AxiosInstance = axios.create({
     timeout: 60000,
-    timeoutErrorMessage: "请求超时，请稍后重试。"
+    timeoutErrorMessage: "The request timed out, please try again later."
 });
 
 axiosInstance.interceptors.request.use(
